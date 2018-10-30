@@ -16,6 +16,8 @@ yarn
 ### Build tools
 - [webpack](https://github.com/webpack/webpack) 4.23.1
 - [webpack-cli](https://github.com/webpack/webpack-cli) 3.1.2
+- webpack plugins
+  - [webpack-html-plugin](https://github.com/jantimon/html-webpack-plugin)
 
 ### Debug
 - [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools)
