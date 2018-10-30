@@ -10,4 +10,6 @@
 
 ## Contains (developer / build tools)
 - [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools)
+- [webpack](https://github.com/webpack/webpack) 4.23.1
+- [webpack-cli](https://github.com/webpack/webpack-cli) 3.1.2
 
