@@ -8,4 +8,6 @@
 - [mobx-react](https://github.com/mobxjs/mobx-react) 5.3.6
 - [mobx-react-router](https://github.com/alisd23/mobx-react-router) 4.0.5
 
+## Contains (developer / build tools)
+- [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools)
 
