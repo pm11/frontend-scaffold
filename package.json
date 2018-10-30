@@ -1,0 +1,21 @@
+{
+  "name": "frontend-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pm11/frontend-scaffold.git"
+  },
+  "author": "Shinichiro Todaka <shinichiro.tdk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pm11/frontend-scaffold/issues"
+  },
+  "homepage": "https://github.com/pm11/frontend-scaffold#readme"
+}
