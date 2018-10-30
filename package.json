@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "mobx": "^5.5.2",
+    "mobx-react": "^5.3.6",
     "react": "^16.6.0",
     "typescript": "^3.1.4"
   },
