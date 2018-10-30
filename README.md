@@ -18,6 +18,8 @@ yarn
 - [webpack-cli](https://github.com/webpack/webpack-cli) 3.1.2
 - webpack plugins
   - [webpack-html-plugin](https://github.com/jantimon/html-webpack-plugin)
+- loader
+  - [ts-loader](https://github.com/TypeStrong/ts-loader)
 
 ### Debug
 - [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools)
