@@ -31,7 +31,7 @@ module.exports = {
       },
     }),
     new HtmlWebpackPlugin({
-      title: 'Designfy demo',
+      title: 'demo',
       template: 'templates/index.html',
     })
   ],
