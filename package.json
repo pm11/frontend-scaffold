@@ -11,7 +11,8 @@
     "react-router-dom": "^4.3.1",
     "react-router-redux": "^4.0.8",
     "redux": "^4.0.1",
-    "typesafe-actions": "^2.0.4"
+    "typesafe-actions": "^2.0.4",
+    "utility-types": "^2.1.0"
   },
   "devDependencies": {
     "@types/enzyme": "^3.1.15",
