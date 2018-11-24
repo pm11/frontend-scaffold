@@ -22,10 +22,12 @@
   },
   "lint-staged": {
     "subTaskConcurrency": 1,
-    "*.{ts,tsx}": [
-      "tslint --fix",
-      "git add"
-    ]
+    "linters": {
+      "*.{ts,tsx}": [
+        "tslint --fix",
+        "git add"
+      ]
+    }
   },
   "dependencies": {
     "axios": "^0.18.0",
