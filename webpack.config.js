@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 
 module.exports = {
   mode: 'development',
-  entry: `${__dirname}/src/index.ts`,
+  entry: `${__dirname}/src/index.tsx`,
   output: {
     path: `${__dirname}/public`,
     filename: 'index.js',
@@ -28,6 +28,7 @@ module.exports = {
     new webpack.DefinePlugin({
       "process.env": {
         NODE_ENV: 'development',
+        SYSTEM_ENV: 'development',
       },
     }),
     new HtmlWebpackPlugin({
