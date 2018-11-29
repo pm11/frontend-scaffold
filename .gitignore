@@ -68,3 +68,6 @@ jspm_packages
 
 # local node-version
 .node-version
+
+# public
+public/*
