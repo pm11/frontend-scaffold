@@ -20,6 +20,7 @@ yarn
 
 ## Commands
 ```
+yarn run dev         ... launch dev server ( http://localhost:3001 )
 yarn run build       ... build bundle files
 yarn run watch       ... watch
 yarn run lint        ... Run linter
