@@ -1,5 +1,4 @@
 import 'normalize.css'
-import 'semantic-ui-css/semantic.min.css'
 import './global.scss'
 
 import * as React from 'react'
