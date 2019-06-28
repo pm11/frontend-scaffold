@@ -1,7 +1,7 @@
 # frontend-scaffold
 各ブランチに実装しています
 
-### [ts-react-redux-antd](https://github.com/pm11/frontend-scaffold/tree/ts-react-redux-antd)
+## [ts-react-redux-antd](https://github.com/pm11/frontend-scaffold/tree/ts-react-redux-antd)
 - [React](https://github.com/facebook/react) 16.8+
   - Available Hooks API
 - [Redux](https://github.com/reduxjs/redux) 4+
