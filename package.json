@@ -1,17 +1,17 @@
 {
-  "name": "react-redux-hooks-example",
+  "name": "frontend-scaffold",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pm11/react-redux-hooks-example.git"
+    "url": "git+https://github.com/pm11/frontend-scaffold.git"
   },
   "author": "Shinichiro Todaka <shinichiro.tdk@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/pm11/react-redux-hooks-examplefrontend#readme",
+  "homepage": "https://github.com/pm11/frontend-scaffold",
   "bugs": {
-    "url": "https://github.com/pm11/react-redux-hooks-example/issues"
+    "url": "https://github.com/pm11/frontend-scaffold/issues"
   },
   "scripts": {
     "build": "webpack",
