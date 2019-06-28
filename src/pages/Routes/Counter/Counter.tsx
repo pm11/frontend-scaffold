@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import { withRouter } from 'react-router-dom'
-import { Statistic, Button } from 'semantic-ui-react'
+import { Statistic, Button } from 'antd'
 
 import { ReducerState } from '@/store/root-reducer'
 import {
@@ -17,10 +17,7 @@ const CounterComponent = () => {
   return (
     <div>
       <div className={style.counter}>
-        <Statistic>
-          <Statistic.Value>{count}</Statistic.Value>
-          <Statistic.Label>Counts</Statistic.Label>
-        </Statistic>
+        <Statistic title="Counts" value={count} />
       </div>
       <Button.Group>
         <Button onClick={() => dispatch(incrementCounter())}>+1</Button>
