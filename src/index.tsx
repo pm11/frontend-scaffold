@@ -1,4 +1,5 @@
 import 'normalize.css'
+import 'antd/dist/antd.css'
 import './global.scss'
 
 import * as React from 'react'
